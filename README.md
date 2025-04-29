@@ -32,10 +32,6 @@ This is a **replication** of the [d4vd Official Store](https://shop.d4vd.io/) us
 
 This project is for **educational purposes only**. It is a personal exercise in web replication and does not aim to infringe on any copyrights.
 
-## Bootstrap Components Explanation
-
-Explanation of every single Bootstrap element used in the creation of this page. [Components Explanation](components-explanation.md)
-
 ---
 
 🔗 [Visit the Original Store](https://shop.d4vd.io/)
