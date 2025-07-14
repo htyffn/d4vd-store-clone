@@ -24,7 +24,7 @@ This is a **replication** of the [d4vd Official Store](https://shop.d4vd.io/) us
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/jiahao04/d4vd-store-clone.git
+   https://github.com/htyffn/d4vd-store-clone.git
    ```
 2. Open `index.html` in your browser.
 
